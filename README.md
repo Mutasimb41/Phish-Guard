@@ -1,5 +1,5 @@
 
-#🛡️ PhishGuard: Phishing Attack Detection System
+# 🛡️ PhishGuard: Phishing Attack Detection System
 
 PhishGuard is a web-based **Phishing Attack Detection System** that scans both **emails** and **URLs** in real-time using a **hybrid Deep Learning model** integrated with **Natural Language Processing (NLP)** techniques. Designed with user privacy, accuracy, and security in mind, it provides fast, reliable, and interactive phishing detection via a responsive web interface.
 
